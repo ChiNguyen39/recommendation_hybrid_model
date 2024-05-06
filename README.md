@@ -28,6 +28,18 @@ Here is the distribution chart of the rating the user gave. It seems that most o
 <img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/word%20cloud.png?raw=true" width=400>
 Here is the word cloud created from reviews the user wrote about movies they purchased. And we can see this is a nice picture when there are a lot of nice words in big size such as good movie, love, like, great, well,etc.
 
+## Model algorithms:
+There are two popular methods for recommendation systems:
+- Collaborative filtering: User-based, Item-based
+- Content-based filtering
+<br><b>Firstly, I build algorithms for user-based filtering method to find out 5 similar users with the target user, the result of this method is the movies that similar user watched but target user not yet watched.
+<br>
+And these movies will be filtered out by content-based filtering algorithms to eliminate the less similar movies.</b>
+<br> Here is the visualization of my algorithms:
+<img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/Slide15.jpeg?raw=true" width=700>
+## Youtube link to my presentation:
+
+
 
 
 
