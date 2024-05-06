@@ -19,7 +19,19 @@ Justifying recommendations using distantly-labeled reviews and fined-grained asp
 - Drop duplicates and Merge ‘review’ table with ‘metadata’ table on ‘parent_asin’.
 ## Data inspection (EDA):
 
-<img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/top%2020.png?raw=true" width=800>
+<img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/top%2020.png?raw=true" width=400>
+Here is the chart of top 20 users who gave the biggest number of reviews. Well, the most active user gave more than 4000 reviews, it means he/she spend his/her life in watching movies & tv.!
+<br>
+<img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/rating%20distribution.png?raw=true" width=400>
+Here is the distribution chart of the rating the user gave. It seems that most of the user feel happy with their choice when the most rating are above 4.0
+<br>
+<img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/word%20cloud.png?raw=true" width=400>
+Here is the word cloud created from reviews the user wrote about movies they purchased. And we can see this is a nice picture when there are a lot of nice words in big size such as good movie, love, like, great, well,etc.
+
+
+
+
+
 
 
 
