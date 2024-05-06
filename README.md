@@ -16,7 +16,9 @@ Justifying recommendations using distantly-labeled reviews and fined-grained asp
 - Preprocess text data in ‘review’, product ‘description’ columns: lowercase, remove punctuation, remove digit, remove stopwords.
 - Drop unnecessary columns: features, details, image, video, store, etc.
 - Drop unrelated categories:
-- Drop duplicates and Merge ‘review’ table with ‘metadata’ table on ‘parent_asin’ 
+- Drop duplicates and Merge ‘review’ table with ‘metadata’ table on ‘parent_asin’.
+## Data inspection (EDA):
+[Top20 user][https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/top%2020.png?raw=true]
 
 
 
