@@ -18,7 +18,8 @@ Justifying recommendations using distantly-labeled reviews and fined-grained asp
 - Drop unrelated categories:
 - Drop duplicates and Merge ‘review’ table with ‘metadata’ table on ‘parent_asin’.
 ## Data inspection (EDA):
-[Top20 user][https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/top%2020.png?raw=true]
+
+<img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/top%2020.png?raw=true" width=800>
 
 
 
