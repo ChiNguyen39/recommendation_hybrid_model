@@ -37,7 +37,7 @@ There are two popular methods for recommendation systems:
 And these movies will be filtered out by content-based filtering algorithms to eliminate the less similar movies.</b>
 <br> Here is the visualization of my algorithms:
 <img src="https://github.com/ChiNguyen39/recommendation_hybrid_model/blob/main/chart/Slide15.jpeg?raw=true" width=700>
-## Youtube link to my presentation: https://drive.google.com/drive/folders/1iYSeU4Jew8EmMyHCmjm4umNq-TfF3jc3?usp=sharing
+<br> <b>Link to my recorded presentation: https://drive.google.com/drive/folders/1iYSeU4Jew8EmMyHCmjm4umNq-TfF3jc3?usp=sharing
 
 
 
